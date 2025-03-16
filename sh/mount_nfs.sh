@@ -1,0 +1,1 @@
+sudo mount -t nfs 10.172.198.71:/data/nfs-orin/Eagle_Ethernet_Dec1st_8.2.394 Radar

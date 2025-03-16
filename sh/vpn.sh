@@ -1,0 +1,1 @@
+sudo openconnect --authgroup="Office--(PWD+GoogleAuth)" -s 'vpn-slice wiki.megvii-inc.com hh-d.brainpp.cn git-core.megvii-inc.com myhome.megvii-inc.com video9.r.megvii-inc.com raw.githubusercontent.com github.com oss-internal.hh-b.brainpp.cn curl.se ftp.gnu.org conan-jfrog-transformer.mcd.megvii-inc.com' vpnb.megvii-inc.com

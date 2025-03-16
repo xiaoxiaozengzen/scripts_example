@@ -1,0 +1,7 @@
+name: awesome-mcd-demo
+
+web:
+  - name: main
+    cmd: python app.py
+    port:
+        - 3000
